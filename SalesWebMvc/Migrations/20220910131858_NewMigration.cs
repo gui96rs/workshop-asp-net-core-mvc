@@ -2,7 +2,7 @@
 
 namespace SalesWebMvc.Migrations
 {
-    public partial class AddingPopulationSellers : Migration
+    public partial class NewMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
